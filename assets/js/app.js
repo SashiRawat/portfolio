@@ -148,7 +148,7 @@ let footer = $(`
                 <h6 class="display">Get in Touch</h6>
               </div>
                 <form name="form1" action="https://api.web3forms.com/submit" method="POST" accept-charset="UTF-8" >
-                <input type="hidden" name="access_key" value="7d1f18de-61dc-4b1e-aec2-7e89fb006468">
+                <input type="hidden" name="access_key" value="b11ac875-bf2b-404d-8c1a-3487079a0b3c">
                   <input id="name" type="text" name="name" placeholder="Your Name" required/>
                   <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
                   <textarea id="textArea" name="message" placeholder="Type your Message" required></textarea>

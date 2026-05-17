@@ -5,6 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "FINASTRA",
+    cardImage: "assets/images/experience-page/FINASTRA.jpeg",
+    place: "Associate Software Engineer",
+    time: "(June 2025 - Present)",
+    desp: "<li>Working as a Java Backend Developer on Global PAYplus (GPP)—Finastra’s flagship payments hub.</li><li>I dive into complex Java architectures, microservices, and robust APIs to ensure high throughput, security, and strict data validation (like navigating the global ISO 20022 messaging standards).</li>",
+  },
+  {
     title: "ARCADE",
     cardImage: "assets/images/experience-page/ARCADE.png",
     place: "Google Aracde Program",
